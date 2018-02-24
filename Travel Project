@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--Jasmine MacFarlane-->
+<!--Travel Project-->
+<!--Due 02/23/2018-->
+
+<html>
+	<head>
+		<title>Panda Travel Agency</title>
+	</head>
+	
+	<body bgcolor="BBFBEE" text="black"> 
+		<p><center><!--centered contact information-->
+			<h1>Panda Travel Agency</h1>
+			<img src="pandaplane.jpg"alt="A cartoon of a panda in a plane" width="250" height="200"/><!--image with size specifications-->
+			<br/>
+			<b>Contact Us</b>
+			<br/>
+			Phone: 555-905-1982
+			<br/>
+			<a href="mailto:info@pandatravel.org">Email</a>
+			<!--email-to link that will email travel agency-->
+		</center></p><!--paragraph with contact information stacked-->
+		
+		<hr style="border: 3px groove #BBFBEE" color="#306F62"><!--horizontal line with groove and dark green color-->
+		
+		<h2><center>Travel to Coba, Mexico</center></h2><!--centered secondary heading-->
+		
+		<h3>Why You Should Visit Coba</h3>
+		<p>Coba means ‘waters stirred by the wind’, an appropriate Mayan name as this settlement is surrounded by two large lagoons.
+		For many years Coba was an ignored piece of Mayan history due to its location. Located between Tulum in the state of Quintana Roo, and Valladolid 
+		in the state of Yucatan, archeologists first learned about the site in the mid 1800’s, but dense jungle, the Caste War and lack of funds made this
+		site a difficult area to penetrate. This Mayan site is still largely unexcavated making it a true wonder in the Yucatan. Visitors can enjoy shaded
+		walkways that are the original sacbe (white roads), three settlements that show the architecture and vast area of this once large city, 2 ball 
+		courts and climb the highest Mayan pyramid in the Yucatan, Nohoch Mul.</p><!--paragraph with history-->
+		
+		<h3>Things to Do in Coba</h3>
+		<p>
+			<ul>
+				<li>Climb to the top of the main pyramid<br/>
+					<figure>
+						<img src="pyramidcoba.jpg"alt="A picture of people walking up a large pyramid" width="500" height="400"/>
+						</br>
+						<fig caption>This pyramid is one of the few in Mexico that you can climb, and after climbing you can enjoy the view from the top</fig caption>
+					</figure><!--image with caption-->
+				<li>Swim in an underground lagoon<br/>
+					<figure>
+						<img src="undergroundcavern.jpg"alt="A picture of an underground lake with stalagmites overhead" width="500" height="400"/>
+						</br>
+						<fig caption>Whether you want to marvel at the rock formations or go for a relaxing swim, this cavern has something for everyone</fig caption>
+					</figure><!--image with caption-->
+				<li>Explore the surrounding forests<br/>
+					<figure>
+						<img src="forestcoba.png"alt="An aerial view of the forest surounding the main pyramid" width="500" height="400"/>
+						</br>
+						<fig caption>After climbing to the top of the main pyramid, take a bikeride through the serene forest surrounding it</fig caption>
+					</figure><!--image with caption-->
+			</ul><!--unordered list of things to do accompanied by images with size specifications-->
+		</p>
+		
+		<h3>Reviews from past travelers</h3>
+		<p>
+			<ul>
+				<li><q>Great day visiting the Coba ruins....zip lining, riding bikes, climbing to the top of a ruin, and swimming in the cenotes was all
+				a part of this fabulous day!</q>-Ali G. (Breton, Canada)
+				<li><q>The ruins at Coba are impressive and very interesting. They are not excavated or cleared out as Chichen Itza and that makes the
+				experience different and exciting.</q>-Diane R. (Reno, Nevada)
+				<li><q>We loved visiting Coba especially the jungle walk and climb to the top of Nohuch-Mul. The view from the top is amazing and helps
+				you really imagine what it must have been like back at the height of Mayan civilization.</q>-Carrie N. (Whittier, California)
+			</ul><!--unordered list of quotes-->
+			</br>
+			<a href="https://en.wikipedia.org/wiki/Coba" target="_blank">Learn More</a><!--link to open in a new tab-->
+		</p>
+	</body>
+</html>
+			
+		
+		
