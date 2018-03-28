@@ -1,0 +1,18 @@
+/*
+* Jasmine MacFarlane
+* 03/28/2018
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: yellow;color: 000000;
+
+}
