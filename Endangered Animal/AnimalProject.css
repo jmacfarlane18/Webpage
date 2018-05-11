@@ -1,0 +1,51 @@
+/*
+* Jasmine MacFarlane
+* 05/01/2017
+* Animal Project
+*/
+
+
+/* The universal selector */
+
+* {background: #D7FFB8; 
+   color: #354D22;
+   margin:0;
+   padding:0;
+   font-family: Arial, sans-serif;
+}
+
+
+header {max-width:500px;
+		margin: auto;
+}
+/*centered headings*/
+
+body {float:left
+}
+
+main, aside, footer {margin:0; padding: 0 20px;}
+
+aside { float: right;
+       margin:0 20px 10px;
+       width:150px;
+       border: 1px solid black;
+       font-family: Georgia, Times, serif;
+}
+/*aside with different font so it stands out*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height:200px;
+}
+/*css for pictures I wanted vertically, not horizontally*/
+
+.row {display: flex;
+}
+
+.column { flex: 20%;
+  padding: 5px;
+}
+/*css to make images stay inline and in a row */
+
