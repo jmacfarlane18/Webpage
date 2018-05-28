@@ -1,0 +1,26 @@
+/*
+* Jasmine MacFarlane
+* 03/28/2018
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: #001C1E ;color: #4FBF8D; font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 { text-align: center; text-decoration: underline overline; background: #004445; font-size: 250%
+ }
+ 
+main {background-color: #A1D6E2; color: #34675C;
+}
+
+img {float: right;
