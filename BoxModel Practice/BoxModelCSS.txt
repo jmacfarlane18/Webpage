@@ -1,0 +1,38 @@
+/*
+* Jasmine MacFarlane
+* 05/01/2017
+* Box Model Practice
+*/
+
+
+/* The universal selector */
+
+* {background: rgb(0,60,70); 
+   color: rgb(80,167,174);
+   margin:0;
+   padding:0;
+}
+
+/* Put body attributes here */
+
+body {border-width: 1px;
+      border-color: black;
+      border-style:solid;
+      padding: 25px;
+      margin: 25px;
+}
+
+h1 {
+   border-width: 1px;
+   padding: 5em;
+   margin: 25px;
+   border-style: dashed;
+   border-color: black;
+}
+
+p  {border-width: 1px;
+	padding: 5em;
+	margin: 25px;
+	border-style: solid;
+	border-color: black;
+}
